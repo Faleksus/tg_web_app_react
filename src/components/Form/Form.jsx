@@ -52,6 +52,7 @@ const Form = () => {
 
   return (
     <div className={"form"}>
+      <div>777</div>
       <h3>Введите ваши данные</h3>
       <input
         className={"input"}
